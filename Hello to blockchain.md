@@ -2,7 +2,7 @@
 
 Since I finished my Ph.D. in November 2021, I started to study `blockchain`, `bitcoin`, and `cryptocurrency` because I was interested in `smart contract` programming with `solidity`. 
 
-The first thing that I read to get involved in this was Satoshi Nakamoto's white paper, I wrote a brief summary [(here)](XXX) to describe the idea behind `bitcoin` that was to allow electronic payments to be sent directly from one party to another without going through a financial institution and based on cryptographic proof instead of trust. Based on some `bitcoin` concepts, Vitalik Buterin develop `Ethereum`. `Ethereum` utilizes the distributed ledger model that originated with `bitcoin` and repurposes it to model a virtual computer, giving machine-level opcodes the same level of certainty as `bitcoin` transactions.
+The first thing that I read to get involved in this was Satoshi Nakamoto's white paper, I wrote a brief summary [(here)](https://github.com/hasselalcala/hasselalcala/blob/main/How%20Bitcoin%20Works.pdf) to describe the idea behind `bitcoin` that was to allow electronic payments to be sent directly from one party to another without going through a financial institution and based on cryptographic proof instead of trust. Based on some `bitcoin` concepts, Vitalik Buterin develop `Ethereum`. `Ethereum` utilizes the distributed ledger model that originated with `bitcoin` and repurposes it to model a virtual computer, giving machine-level opcodes the same level of certainty as `bitcoin` transactions.
 
 In general, the idea behind blockchain involved the use of other techniques such as cryptography hash functions, digital signatures, or consensus algorithms, so for me, it was interesting to use these concepts in something new.
 
