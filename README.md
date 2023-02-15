@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 # About me
-Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning smart contract development using Cairo/Starknet.
+Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning Cairo/Sta.
 
 # Education
 
@@ -52,7 +52,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
        -  [Subgraph repository](https://github.com/hasselalcala/web3rsvp-subgraph-code)
        -  [Frontend repository](https://github.com/hasselalcala/web3RSVP-frontend-starter)
        -  [Lens repository](https://github.com/hasselalcala/lens-api-starter)
-- **Participant in the StarkNet Basecamp** This workshop provide an in-depth training on the internals of zero-knowledge proof systems, Cairo Language, and StarkNet. I received an in-depth training on the internals of zero-knowledge proof systems, Cairo Language, and StarkNet with the objective that I can go on to effectively train others on these subjects.
+- **Participant in the StarkNet Basecamp.** This workshop provide an in-depth training on the internals of zero-knowledge proof systems, Cairo Language, and StarkNet with the objective that I can go on to effectively train others on these subjects.
     - [ERC721 Starknet](https://github.com/hasselalcala/workshop_ERC721_Starknet)
 
 # Hackathons
@@ -80,7 +80,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 
 - *StarkNet messaging bridge workshop* learning how to use the StarkNet L1 <-> L2 messaging bridge to create powerful cross layer applications.
 - *ERC20 on StarkNet workshop* learning how to deploy an ERC20 token on StarkNet and customize it to perform specific functions. 
-- *Rust*
+- *Rust*.
 
 ## How to reach me
 
