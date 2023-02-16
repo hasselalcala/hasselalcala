@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 # About me
-Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning Cairo/Sta.
+Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning Cairo/StarkNet.
 
 # Education
 
@@ -47,7 +47,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 # Workshops
 
 - **Participant in the Women Build Web3 community workshop "30 Days of Web3".** In this workshop I adquire the knowledge and skills needed to build my own dApps on Ethereum.
-    -  I build create a full-stack RSVP dapp. I learn how to build with this stack on Ethereum: Filecoin & IPFS, The Graph, Radicle, Infura, Polygon and Lens.
+    -  I build a full-stack RSVP dapp. I learn how to build with this stack on Ethereum: Filecoin & IPFS, The Graph, Radicle, Infura, Polygon and Lens.
        -  [Smart contract repository](https://github.com/hasselalcala/web3rsvp)
        -  [Subgraph repository](https://github.com/hasselalcala/web3rsvp-subgraph-code)
        -  [Frontend repository](https://github.com/hasselalcala/web3RSVP-frontend-starter)
