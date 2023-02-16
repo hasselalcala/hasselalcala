@@ -80,7 +80,6 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 
 - *StarkNet messaging bridge workshop* learning how to use the StarkNet L1 <-> L2 messaging bridge to create powerful cross layer applications.
 - *ERC20 on StarkNet workshop* learning how to deploy an ERC20 token on StarkNet and customize it to perform specific functions. 
-- *Rust*.
 
 ## How to reach me
 
