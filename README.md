@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="660" height="250" src="https://user-images.githubusercontent.com/83148363/216844357-a3232b82-8814-494b-aa00-5374e336a0d3.png">
+  <img width="660" height="250" src="https://user-images.githubusercontent.com/83148363/223574666-6f928455-22a0-4e56-8dc7-ec152a827743.png">
 </p>
+
+
 
 # About me
 Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning Cairo/StarkNet.
@@ -56,7 +58,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
     - [ERC721 Starknet](https://github.com/hasselalcala/workshop_ERC721_Starknet)
 
 # Hackathons
-- *ethBerlin.* [ProofID](https://github.com/hasselalcala/proofID). Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With ProofID you can make your data your own. Protecting your personal information is our top priority, with ProofID to take the control back to your hands.
+- *EthBerlin.* [ProofID](https://github.com/hasselalcala/proofID). Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With ProofID you can make your data your own. Protecting your personal information is our top priority, with ProofID to take the control back to your hands.
 
 - *Starkware Hacker House.* [WTF Academy Starknet](https://github.com/hasselalcala/WTF-Academy-StarkNet-Hackathon). WTF Academy is a web3 open-source university aiming to onboard 10,000 developers to web3 space. After you complete the courses that we offer, you can claim your SBT certificate.
 
