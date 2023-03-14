@@ -76,8 +76,8 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 
 # I’m currently working on
 
-- *WTF Academy Starknet* contributing and developing content to learn Cairo language and StarkNet.
-- *Cora protocol* Lending protocol that eliminate the option seller, contributing in research for a pricer based on Kelly criterion.
+- *WTF Academy Starknet.* Contributing and developing content to learn Cairo language and StarkNet.
+- *Cora protocol.* Lending protocol that eliminate the option seller, contributing in research for a pricer based on Kelly criterion.
 
 # I’m currently learning ...
 
