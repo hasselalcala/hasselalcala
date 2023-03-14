@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # About me
-Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, mathematics, teaching, and learning Cairo/StarkNet.
+Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, cryptography, mathematics and teaching.
 
 # Education
 
