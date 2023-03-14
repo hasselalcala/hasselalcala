@@ -77,11 +77,13 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 # I’m currently working on
 
 - *WTF Academy Starknet* contributing and developing content to learn Cairo language and StarkNet.
+- *Cora protocol* Lending protocol that eliminate the option seller, contributing in research for a pricer based on Kelly criterion.
 
 # I’m currently learning ...
 
 - *StarkNet messaging bridge workshop* learning how to use the StarkNet L1 <-> L2 messaging bridge to create powerful cross layer applications.
 - *ERC20 on StarkNet workshop* learning how to deploy an ERC20 token on StarkNet and customize it to perform specific functions. 
+- Rust and ethers.rs
 
 ## How to reach me
 
