@@ -73,6 +73,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 - *Circom multiplier.* [repo](https://github.com/hasselalcala/circomMultiplier)
 - *Circom Is zero.* [repo](https://github.com/hasselalcala/isZero_circom)
 - *Setting up protostar for Cairo.* [repo](https://github.com/hasselalcala/setting-up-protostar-for-cairo)
+- *How to create a connection using ganache and Ether-rs* [repo](https://github.com/hasselalcala/rust_using_ether-rs)
 
 # I’m currently working on
 
