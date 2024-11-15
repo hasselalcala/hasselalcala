@@ -74,17 +74,13 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 - *Circom Is zero.* [repo](https://github.com/hasselalcala/isZero_circom)
 - *Setting up protostar for Cairo.* [repo](https://github.com/hasselalcala/setting-up-protostar-for-cairo)
 - *How to create a connection using ganache and Ether-rs* [repo](https://github.com/hasselalcala/rust_using_ether-rs)
+- *EarthMind* [repo](https://github.com/hasselalcala/earthmind-rs)
+- *Omnibox* [repo](https://github.com/hasselalcala/omnibox)
+- *NEAR Token Auction* [repo](https://github.com/hasselalcala/ido-contract)
 
-# I’m currently working on
+# I’m currently working adn learning on
 
-- *WTF Academy Starknet.* Contributing and developing content to learn Cairo language and StarkNet.
-- *Cora protocol.* Lending protocol that eliminate the option seller, contributing in research for a pricer based on Kelly criterion.
-
-# I’m currently learning ...
-
-- *StarkNet messaging bridge workshop* learning how to use the StarkNet L1 <-> L2 messaging bridge to create powerful cross layer applications.
-- *ERC20 on StarkNet workshop* learning how to deploy an ERC20 token on StarkNet and customize it to perform specific functions. 
-- Rust and ethers.rs
+-  Developing near smart contract with rust.
 
 ## How to reach me
 
