@@ -77,6 +77,7 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 - *EarthMind* [repo](https://github.com/hasselalcala/earthmind-rs)
 - *Omnibox* [repo](https://github.com/hasselalcala/omnibox)
 - *NEAR Token Auction* [repo](https://github.com/hasselalcala/ido-contract)
+- *NEAR Event Listener* [repo](https://github.com/hasselalcala/near_event_listener)
 
 # I’m currently working adn learning on
 
