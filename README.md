@@ -87,6 +87,5 @@ August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polyt
 
 - **Telegram:** @hasselalcala
 - **Email:** hasselalcala@gmail.com
-- **Twitter**: @Hasseru
 
 
