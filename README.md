@@ -1,89 +1,80 @@
-<!--
-
- ### Hi there 👋
-**hasselalcala/hasselalcala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img width="660" height="250" src="https://user-images.githubusercontent.com/83148363/223574666-6f928455-22a0-4e56-8dc7-ec152a827743.png">
 </p>
 
+# 👩‍💻 About me
+I am a highly skilled professional with a Ph.D. in Computer Science specializing in Wireless Sensor Networks, stochastic modeling (Markov Chains), cryptography, and cybersecurity. Over the years, I have developed expertise in Rust programming and blockchain technologies, particularly the NEAR Protocol. I have a passion for research and innovation in zero-knowledge proofs, decentralized applications (dApps), and scalable smart contract solutions.
 
+# 🎓 Education
 
-# About me
-Ph.D. focused on Wireless Sensor Networks, mathematical model using stochastic model as Markov chain, cybersecurity, electromagnetic energy harvesting systems, antenna theory and design at 2.4GHz using CST Studio Suite, Cognitive Radio, Medium Access Control protocols such as Non-Persistent Carrier-Sense Multiple Access (NP-CSMA) and Time Division Multiple Access (TDMA), discrete-event simulations using C/C++, and performance evaluation of wireless networks. My qualities are adaptability, teamwork and fast learning skills, self-learning and problem-solving ability, analysis capacity, ability to teach, honesty, and responsible. Passionate about research in zero-knowledge proof, cryptography, mathematics and teaching.
+• **PhD in Computer Science**  
+National Polytechnic Institute (August 2017 - November 2021)  
+Thesis: *Energy Harvesting and Design of a Communication Protocol for a Wireless Sensor* 
 
-# Education
+• **MSc in Computer Engineering**  
+National Polytechnic Institute (August 2015 - July 2017) Graduated with honors  
+Thesis: *Design of a Performance Evaluation Model for a Wireless Sensors Network with Cognitive Radio Capabilities*
 
-August 2017 - November 2021 • **PhD in Advanced Technologies** • National Polytechnic Institute • Thesis: *Energy Harvesting and Design of a Communication Protocol for a Wireless Sensor* 
+• **BSc in Telematic Engineering**  
+National Polytechnic Institute (August 2009 - March 2015)  
+Thesis: *Design and Study of the Performance of a Wireless Sensor Network with Cognitive Radio Capabilities for Structural Health Monitoring of Buildings in Case of Earthquakes*
 
-August 2015 - July 2017 • **MSc in Computer Engineering** • Graduated with honors • National Polytechnic Institute • Thesis: *Design of a Performance Evaluation Model for a Wireless Sensors Network with Cognitive Radio Capabilities*
+# 🛠️ Skills & Expertise
 
-August 2009 - March 2015 • **BSc in Telematic Engineering** • National Polytechnic Institute • Thesis: *Design and Study of the Performance of a Wireless Sensor Network with Cognitive Radio Capabilities for Structural Health Monitoring of Buildings in Case of Earthquakes*
+### Blockchain Development
+- **NEAR Protocol:** Rust-based smart contracts, event listeners, token standards, and decentralized application development.
+- **Rust Programming:** Libraries and smart contract logic for NEAR Protocol.
 
-# Research publications
+### Technical Competencies
+- **Blockchain Ecosystem:** Near CLI, JSON-RPC, and cross-contract calls.
+- **Research & Development:** Wireless networks, performance modeling, and cryptographic systems.
 
-- **2021.** *Analysis and Design of a Wireless Sensor Network Based on the Residual Energy of the Nodes and the Harvested Energy from Mint Plants.* [DOI](https://doi.org/10.1155/2021/6655967) 
+# 🚀 Projects
 
-- **2019.** *Primary User Emulation in Cognitive Radio-Enabled WSNs for Structural Health Monitoring: Modeling and Attack Detection.*[DOI](https://doi.org/10.1155/2019/6950534)
+- **EarthMind**  
+  EarthMind is a protocol for decentralized governance using advanced AI and Blockchain technology to streamline governance decisions for any protocol implementing the EarthMind client contract.  
+  [Repository](https://github.com/hasselalcala/earthmind-rs)
 
-- **2018.** *Performance Analysis of a Wireless Sensor Network with Cognitive Radio Capabilities in Structural Health Monitoring Applications: A Discrete Model.* [DOI](https://doi.org/10.1177/1550147718774001)
+- **NEAR Event Listener**  
+  NEAR Event Listener is a Rust library that facilitates the monitoring of smart contract events on the NEAR blockchain. 
+  [Repository](https://github.com/hasselalcala/near_event_listener)
+  
+- **Near pump**
+  A robust smart contract implementation for creating and managing fungible tokens on the NEAR Protocol blockchain, with built-in auction functionality for initial token distribution.
+  [Smart contract repository](https://github.com/hasselalcala/near-pump)
+  [Client implementation repository](https://github.com/hasselalcala/near_pump_listener_using_framework)
+  [Frontend repository](https://github.com/hasselalcala/near_pump_frontend)
 
-- **2018.** *Design and Simulation of Antennas for Energy Harvesting Systems in the WiFi Band.* [DOI](https://doi.org/10.1007/978-3-030-03763-5_5)
+- **NEAR Token Auction**  
+  Developed a smart contract for token auctions on the NEAR blockchain, implementing bidding logic and token distribution.  
+  [Repository](https://github.com/hasselalcala/ido-contract)
 
-- **2017.** *Seism Report Analysis in a Wireless Sensor Network with Cognitive Radio Capabilities. Ad Hoc & Sensor Wireless Networks Journal*. Volume 39, No. 1-4. 
+- **Near Transaction and Query Builder**
+  NEAR Transaction and Query Builder is a Rust library that simplifies the interaction with NEAR Protocol smart contracts.
+  [Repository](https://github.com/hasselalcala/near_tx_qx_builder)
+  
+# 📜 Research publications
 
-- **2016.** *Performance Analysis of a Wireless Sensor Network for Seism Reporting In an Overlay Cognitive Radio System.* [DOI](https://doi.org/10.1109/WAINA.2016.43)
+- *Analysis and Design of a Wireless Sensor Network Based on the Residual Energy of the Nodes and the Harvested Energy from Mint Plants.* (2021) [DOI](https://doi.org/10.1155/2021/6655967) 
 
-# Workshops
+- *Primary User Emulation in Cognitive Radio-Enabled WSNs for Structural Health Monitoring: Modeling and Attack Detection.* (2019) [DOI](https://doi.org/10.1155/2019/6950534)
 
-- **Participant in the Women Build Web3 community workshop "30 Days of Web3".** In this workshop I adquire the knowledge and skills needed to build my own dApps on Ethereum.
-    -  I build a full-stack RSVP dapp. I learn how to build with this stack on Ethereum: Filecoin & IPFS, The Graph, Radicle, Infura, Polygon and Lens.
-       -  [Smart contract repository](https://github.com/hasselalcala/web3rsvp)
-       -  [Subgraph repository](https://github.com/hasselalcala/web3rsvp-subgraph-code)
-       -  [Frontend repository](https://github.com/hasselalcala/web3RSVP-frontend-starter)
-       -  [Lens repository](https://github.com/hasselalcala/lens-api-starter)
-- **Participant in the StarkNet Basecamp.** This workshop provide an in-depth training on the internals of zero-knowledge proof systems, Cairo Language, and StarkNet with the objective that I can go on to effectively train others on these subjects.
-    - [ERC721 Starknet](https://github.com/hasselalcala/workshop_ERC721_Starknet)
+- *Performance Analysis of a Wireless Sensor Network with Cognitive Radio Capabilities in Structural Health Monitoring Applications: A Discrete Model.* (2018) [DOI](https://doi.org/10.1177/1550147718774001)
 
-# Hackathons
-- *EthBerlin.* [ProofID](https://github.com/hasselalcala/proofID). Is a credibility soul bounded token that allows people to proof their financial status to 3rd party entities using zero knowledge. With ProofID you can make your data your own. Protecting your personal information is our top priority, with ProofID to take the control back to your hands.
+- *Design and Simulation of Antennas for Energy Harvesting Systems in the WiFi Band.* (2018) [DOI](https://doi.org/10.1007/978-3-030-03763-5_5)
 
-- *Starkware Hacker House.* [WTF Academy Starknet](https://github.com/hasselalcala/WTF-Academy-StarkNet-Hackathon). WTF Academy is a web3 open-source university aiming to onboard 10,000 developers to web3 space. After you complete the courses that we offer, you can claim your SBT certificate.
+- *Seism Report Analysis in a Wireless Sensor Network with Cognitive Radio Capabilities. Ad Hoc & Sensor Wireless Networks Journal*. Volume 39, No. 1-4. (2017)
 
-# Projects
+- *Performance Analysis of a Wireless Sensor Network for Seism Reporting In an Overlay Cognitive Radio System.* (2016) [DOI](https://doi.org/10.1109/WAINA.2016.43)
 
-- *Hello to blockchain.* [summary](https://github.com/hasselalcala/hasselalcala/blob/main/Hello%20to%20blockchain.md)
-- *EVM ByteCode To Opcode Disassembler.* [repo](https://github.com/hasselalcala/evmDisassembler)
-- *Blockchain (without Proof of Work).* [repo](https://github.com/hasselalcala/blockchain)
-- *Blockchain with Proof of Work (PoW).* [repo](https://github.com/hasselalcala/basicBlockchainPow)
-- *Challenge 30 Days Of Zero Knowledge.* [repo](https://github.com/hasselalcala/DaysOfZeroKnowledge)
-- *Awesome links for ZK.* [repo](https://github.com/hasselalcala/Awesome-Links-For-ZK)
-- *Circom multiplier.* [repo](https://github.com/hasselalcala/circomMultiplier)
-- *Circom Is zero.* [repo](https://github.com/hasselalcala/isZero_circom)
-- *Setting up protostar for Cairo.* [repo](https://github.com/hasselalcala/setting-up-protostar-for-cairo)
-- *How to create a connection using ganache and Ether-rs* [repo](https://github.com/hasselalcala/rust_using_ether-rs)
-- *EarthMind* [repo](https://github.com/hasselalcala/earthmind-rs)
-- *Omnibox* [repo](https://github.com/hasselalcala/omnibox)
-- *NEAR Token Auction* [repo](https://github.com/hasselalcala/ido-contract)
-- *NEAR Event Listener* [repo](https://github.com/hasselalcala/near_event_listener)
+# 🌱 Current Focus
 
-# I’m currently working adn learning on
+I am currently focused on:
+- Developing smart contracts for NEAR Protocol using Rust.
+- Implementing efficient token standards and exploring decentralized governance mechanisms.
+- Expanding my knowledge in Chain abstraction and AI agents. 
 
--  Developing near smart contract with rust.
-
-## How to reach me
+## 📫 Contact
 
 - **Telegram:** @hasselalcala
 - **Email:** hasselalcala@gmail.com
